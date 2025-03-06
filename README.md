@@ -1,1 +1,1 @@
-Test
+This AWS SDK C++ application describes the number of EC2 instances in a region. It is based on the AWS SDK for C++ open source project. For more information on building the application and documentation regarding AWS SDK for C++ see: https://github.com/aws/aws-sdk-cpp
